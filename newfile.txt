@@ -2,3 +2,6 @@ red
 green 
 yellow
 black
+purple
+violet
+blue
